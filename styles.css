@@ -1,0 +1,49 @@
+
+main {
+  font: normal 16px serif;
+  margin: 50px 100px;
+}
+
+nav {
+  margin: 50px 100px;
+}
+
+.kapitel-link {
+  font: bold 12px sans-serif;
+  text-transform: uppercase;
+}
+
+.kapitel-link.prev {
+  float: left;
+}
+
+.kapitel-link.next {
+  float: right;
+}
+
+.brev {
+  font: italic bold 15px Helvetica, Arial, sans-serif;
+  margin: 0px 50px;
+}
+
+.saga {
+  margin-top: 20px;
+  font: 15px Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+p {
+  margin-top: 20px;
+  font: 15px Helvetica, Arial, sans-serif;
+}
+
+.kapitel {
+  text-align: center;
+}
