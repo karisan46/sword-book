@@ -1,4 +1,9 @@
 
+
+body {
+  margin: 20px;
+}
+
 main {
   font: normal 16px serif;
   margin: 50px 100px;
