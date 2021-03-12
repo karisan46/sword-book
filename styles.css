@@ -45,7 +45,7 @@ h2 {
 
 p {
   font: 15px Helvetica, Arial, sans-serif;
-   margin: 30px 50px;
+   margin: 10px 50px;
 }
 
 .kapitel {
@@ -58,4 +58,8 @@ p {
 }
 .story-link {
   
+}
+
+.prologRow {
+  margin-top: 2px;
 }
